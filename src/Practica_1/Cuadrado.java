@@ -1,10 +1,10 @@
-package tema6_herencias;
+package Practica_1;
 
 /**
  *
  * @author Javi
  */
-public class Tema6_Herencias {
+public class Cuadrado {
 
     public static void main(String[] args) {
         
