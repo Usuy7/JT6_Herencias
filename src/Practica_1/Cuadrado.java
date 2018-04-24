@@ -6,7 +6,4 @@ package Practica_1;
  */
 public class Cuadrado {
 
-    public static void main(String[] args) {
-        
-    }
 }
